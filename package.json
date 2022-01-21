@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-scaffold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhaziel/nodejs-scaffold.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhaziel/nodejs-scaffold/issues"
+  },
+  "homepage": "https://github.com/Rhaziel/nodejs-scaffold#readme"
+}
